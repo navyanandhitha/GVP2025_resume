@@ -1,12 +1,6 @@
 
-jinja2
-streamlit
-xhtml2pdf
-gtts
-pyttsx3
-langdetect
-googletrans==4.0.0-rc1
-nltk
-spacy
-scikit-learn
 
+streamlit==1.33.0
+fpdf==1.7.2
+
+#resume creator
